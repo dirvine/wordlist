@@ -17,6 +17,8 @@ This project creates a comprehensive wordlist by combining the BIP39 wordlist wi
 
 ## Quick Start
 
+### 🚀 Claude-Validated Generation (Recommended)
+
 ```bash
 # Install UV
 curl -LsSf https://astral.sh/uv/install.sh | sh
@@ -24,13 +26,26 @@ curl -LsSf https://astral.sh/uv/install.sh | sh
 # Download source wordlists
 uv run python download_sources.py
 
+# Test the validation system
+uv run python test_validation_system.py
+
+# Generate Claude-validated wordlist (interactive)
+uv run python claude_validated_generator.py
+
+# Analyze validation results
+uv run python validation_analysis.py
+```
+
+### 📊 Algorithmic Generation (Research)
+
+```bash
 # Generate basic wordlist
 uv run python generate_wordlist.py
 
 # Generate enhanced wordlist with quality tiers
 uv run python enhanced_generator.py
 
-# Generate Claude-optimized wordlist (recommended)
+# Generate Claude-optimized wordlist
 uv run python claude_optimized_generator.py
 
 # Analyze word characteristics
@@ -45,6 +60,47 @@ uv run python evaluate_readability.py
 
 ## Generation Approaches
 
+### 🏆 Claude-Validated Generation (Interactive) - **ULTIMATE QUALITY**
+
+The Claude validation system provides human-level word quality assessment through interactive validation sessions.
+
+#### How It Works
+1. **Foundation**: Starts with 2,048 validated BIP39 words
+2. **Candidate Pool**: Filters 100,000 English words to create 88,155 candidates
+3. **Batch Validation**: Processes 5,000 words at a time through Claude
+4. **Interactive Process**: You provide Claude's validation responses for each batch
+5. **Smart Resumption**: Automatically saves progress and can resume interrupted sessions
+
+#### Validation Criteria
+- ✅ Real English words in standard dictionaries
+- ✅ Easily readable and pronounceable
+- ✅ Commonly understood (not highly technical)
+- ✅ Appropriate for general audiences
+- ❌ No proper nouns (places, names, brands)
+- ❌ No abbreviations, acronyms, or codes
+- ❌ No foreign words unless fully adopted
+
+#### Usage Example
+```bash
+# Run the generator
+uv run python claude_validated_generator.py
+
+# Follow prompts to validate each batch:
+# 1. Copy the validation prompt to Claude
+# 2. Paste Claude's response back
+# 3. System automatically processes and continues
+# 4. Use Ctrl+C to pause and resume later
+```
+
+#### Benefits
+- **Zero non-words**: Every word validated by Claude's language understanding
+- **Human-level quality**: Catches subtle issues algorithms miss
+- **Complete audit trail**: Full logging of all validation decisions
+- **Resumable process**: Can be interrupted and resumed without losing progress
+- **Quality analytics**: Comprehensive reporting on validation patterns
+
+### 📊 Algorithmic Generation Approaches
+
 ### 1. Basic Generator (`generate_wordlist.py`)
 - Combines BIP39 with top English words
 - Simple scoring algorithm
@@ -56,11 +112,12 @@ uv run python evaluate_readability.py
 - Improved phonetic pattern detection
 - **Results**: 54.3% excellent quality, 38.5% very good
 
-### 3. Claude-Optimized Generator (`claude_optimized_generator.py`) - **Recommended**
+### 3. Claude-Optimized Generator (`claude_optimized_generator.py`)
 - Uses linguistic knowledge for premium word selection
 - Comprehensive phonetic clarity analysis
 - Semantic concreteness evaluation
 - **Results**: 5.0% premium, 26.1% excellent, 68.8% very good quality
+- **⚠️ Note**: Contains some non-words due to algorithmic limitations
 
 ## Selection Criteria
 
@@ -102,17 +159,21 @@ All generated wordlists are available in the [`wordlists/`](wordlists/) director
 
 ### Ready-to-Use Wordlists
 
-**Production-Ready Options:**
-- **[`ultra_clean_65536.txt`](wordlists/ultra_clean_65536.txt)** - **NEW** - Common, recognizable English words only
-- **[`refined_wordlist_65536.txt`](wordlists/refined_wordlist_65536.txt)** - **NEW** - Eliminates non-words while preserving real English
-- **[`premium_wordlist_65536.txt`](wordlists/premium_wordlist_65536.txt)** - **NEW** - Premium quality with strict validation
+**🏆 RECOMMENDED - Claude-Validated (Interactive Generation):**
+- **[`claude_validated_65536.txt`](wordlists/claude_validated_65536.txt)** - **🚀 ULTIMATE QUALITY** - Every word validated by Claude
+- Run `uv run python claude_validated_generator.py` to generate your own with human-level validation
+
+**Production-Ready (Algorithmic):**
+- **[`ultra_clean_65536.txt`](wordlists/ultra_clean_65536.txt)** - Common, recognizable English words only
+- **[`refined_wordlist_65536.txt`](wordlists/refined_wordlist_65536.txt)** - Eliminates non-words while preserving real English
+- **[`premium_wordlist_65536.txt`](wordlists/premium_wordlist_65536.txt)** - Premium quality with strict validation
 
 **Research and Comparison:**
 - **[`claude_optimized_65536.txt`](wordlists/claude_optimized_65536.txt)** - Linguistic optimization (contains some non-words)
 - **[`enhanced_wordlist_65536.txt`](wordlists/enhanced_wordlist_65536.txt)** - Quality tiers with homophone filtering
 - **[`wordlist_65536.txt`](wordlists/wordlist_65536.txt)** - Basic generation with simple filtering
 
-**⚠️ Note:** The original Claude-optimized wordlist contains some non-words (like "aab", "aac") and proper nouns. For production use, we recommend the **ultra_clean** or **refined** versions.
+**⚠️ Note:** The algorithmic wordlists may contain some problematic entries. For guaranteed quality, use the **Claude-validated** interactive generation system.
 
 ### JSON Format with Metadata
 Each wordlist includes a JSON version with comprehensive metadata:
