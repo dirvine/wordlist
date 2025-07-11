@@ -101,9 +101,18 @@ The Claude-optimized wordlist achieves:
 All generated wordlists are available in the [`wordlists/`](wordlists/) directory:
 
 ### Ready-to-Use Wordlists
-- **[`claude_optimized_65536.txt`](wordlists/claude_optimized_65536.txt)** - **Recommended** - Highest quality with linguistic optimization
+
+**Production-Ready Options:**
+- **[`ultra_clean_65536.txt`](wordlists/ultra_clean_65536.txt)** - **NEW** - Common, recognizable English words only
+- **[`refined_wordlist_65536.txt`](wordlists/refined_wordlist_65536.txt)** - **NEW** - Eliminates non-words while preserving real English
+- **[`premium_wordlist_65536.txt`](wordlists/premium_wordlist_65536.txt)** - **NEW** - Premium quality with strict validation
+
+**Research and Comparison:**
+- **[`claude_optimized_65536.txt`](wordlists/claude_optimized_65536.txt)** - Linguistic optimization (contains some non-words)
 - **[`enhanced_wordlist_65536.txt`](wordlists/enhanced_wordlist_65536.txt)** - Quality tiers with homophone filtering
 - **[`wordlist_65536.txt`](wordlists/wordlist_65536.txt)** - Basic generation with simple filtering
+
+**⚠️ Note:** The original Claude-optimized wordlist contains some non-words (like "aab", "aac") and proper nouns. For production use, we recommend the **ultra_clean** or **refined** versions.
 
 ### JSON Format with Metadata
 Each wordlist includes a JSON version with comprehensive metadata:

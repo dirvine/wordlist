@@ -18,23 +18,28 @@ This directory contains the generated wordlists produced by the various generati
 
 ## Generated Wordlists
 
-### Basic Wordlist
-- **Files**: `wordlist_65536.txt`, `wordlist_65536.json`
-- **Algorithm**: Basic scoring with simple filtering
-- **Quality**: Mixed quality with basic readability checks
-- **Use Case**: General purpose, broad vocabulary
+### Ultra-Clean Wordlist (NEW - Production Recommended)
+- **Files**: `ultra_clean_65536.txt`, `ultra_clean_65536.json`
+- **Algorithm**: Common, recognizable English words with comprehensive known-word vocabulary
+- **Quality**: Focus on everyday English words from curated categories
+- **Use Case**: **Production use** - common words everyone recognizes
 
-### Enhanced Wordlist
-- **Files**: `enhanced_wordlist_65536.txt`, `enhanced_wordlist_65536.json`
-- **Algorithm**: Quality tier classification with homophone filtering
+### Refined Wordlist (NEW - Production Ready)
+- **Files**: `refined_wordlist_65536.txt`, `refined_wordlist_65536.json`
+- **Algorithm**: Eliminates non-words while preserving real English words
 - **Quality Distribution**:
-  - Excellent: 54.3%
-  - Very Good: 38.5%
-  - Good: 4.4%
-  - Acceptable: 2.7%
-- **Use Case**: Improved readability with quality tiers
+  - Excellent: 76.4%
+  - Very Good: 23.6%
+  - Good: 0.0%
+- **Use Case**: **Production use** - real English words with quality filtering
 
-### Claude-Optimized Wordlist (Recommended)
+### Premium Wordlist (NEW - Ultra-Strict)
+- **Files**: `premium_wordlist_65536.txt`, `premium_wordlist_65536.json`
+- **Algorithm**: Ultra-strict validation with premium vocabulary curation
+- **Quality**: Highest standards with comprehensive validation
+- **Use Case**: **Ultra-high quality** - strictest validation of word authenticity
+
+### Claude-Optimized Wordlist (Research)
 - **Files**: `claude_optimized_65536.txt`, `claude_optimized_65536.json`
 - **Algorithm**: Linguistic analysis with phonetic clarity optimization
 - **Quality Distribution**:
@@ -43,7 +48,24 @@ This directory contains the generated wordlists produced by the various generati
   - Very Good: 68.8%
   - Good: 0.1%
   - Acceptable: 0.0%
-- **Use Case**: **Recommended for production use** - highest quality with linguistic optimization
+- **Use Case**: **Research** - contains some non-words and proper nouns
+- **⚠️ Note**: Contains problematic entries like "aab", "aac", proper nouns
+
+### Enhanced Wordlist (Research)
+- **Files**: `enhanced_wordlist_65536.txt`, `enhanced_wordlist_65536.json`
+- **Algorithm**: Quality tier classification with homophone filtering
+- **Quality Distribution**:
+  - Excellent: 54.3%
+  - Very Good: 38.5%
+  - Good: 4.4%
+  - Acceptable: 2.7%
+- **Use Case**: Research and comparison
+
+### Basic Wordlist (Research)
+- **Files**: `wordlist_65536.txt`, `wordlist_65536.json`
+- **Algorithm**: Basic scoring with simple filtering
+- **Quality**: Mixed quality with basic readability checks
+- **Use Case**: Research baseline, broad vocabulary
 
 ## Quality Metrics
 
