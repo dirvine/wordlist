@@ -408,11 +408,11 @@ def main():
         print(f"  {pattern}: {count} ({percentage:.1f}%)")
     
     # Save outputs
-    output_dir = Path("output")
+    output_dir = Path("wordlists")
     output_dir.mkdir(exist_ok=True)
     
     # Save wordlist
-    save_wordlist(wordlist, "../output/claude_optimized_65536.txt")
+    save_wordlist(wordlist, "../wordlists/claude_optimized_65536.txt")
     
     # Save with metadata and analysis
     metadata = {
@@ -427,8 +427,8 @@ def main():
     with open(output_dir / "claude_optimized_65536.json", 'w') as f:
         json.dump(metadata, f, indent=2)
     
-    print(f"\n✓ Saved optimized wordlist to output/claude_optimized_65536.txt")
-    print("✓ Saved detailed analysis to output/claude_optimized_65536.json")
+    print(f"\n✓ Saved optimized wordlist to wordlists/claude_optimized_65536.txt")
+    print("✓ Saved detailed analysis to wordlists/claude_optimized_65536.json")
 
 
 if __name__ == "__main__":

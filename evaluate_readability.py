@@ -267,11 +267,11 @@ def main():
         print()
     
     # Save detailed results
-    output_dir = Path("output")
+    output_dir = Path("wordlists")
     with open(output_dir / "readability_evaluation.json", 'w') as f:
         json.dump(results, f, indent=2)
     
-    print(f"\n\nDetailed results saved to output/readability_evaluation.json")
+    print(f"\n\nDetailed results saved to wordlists/readability_evaluation.json")
     print("\nEvaluation complete!")
 
 

@@ -1,0 +1,59 @@
+{
+  "Basic": {
+    "name": "Basic",
+    "average_score": 0.952039,
+    "premium_percentage": 4.9,
+    "phonetic_distinctiveness": 99.9145728643216,
+    "pattern_analysis": {
+      "CVC": 1.79901123046875,
+      "CVCV": 2.57720947265625,
+      "common_prefix": 5.58624267578125,
+      "common_suffix": 17.791748046875,
+      "simple_plural": 17.57965087890625
+    },
+    "typing_ease": {
+      "single_row": 0.8,
+      "alternating_hands": 4.0,
+      "repeated_letters": 15.4,
+      "common_bigrams": 65.0
+    }
+  },
+  "Enhanced": {
+    "name": "Enhanced",
+    "average_score": 0.9269405000000001,
+    "premium_percentage": 3.5000000000000004,
+    "phonetic_distinctiveness": 99.9145728643216,
+    "pattern_analysis": {
+      "CVC": 1.73187255859375,
+      "CVCV": 1.9561767578125,
+      "common_prefix": 6.1126708984375,
+      "common_suffix": 19.01397705078125,
+      "simple_plural": 18.8995361328125
+    },
+    "typing_ease": {
+      "single_row": 1.0,
+      "alternating_hands": 4.2,
+      "repeated_letters": 16.0,
+      "common_bigrams": 69.8
+    }
+  },
+  "Claude-Optimized": {
+    "name": "Claude-Optimized",
+    "average_score": 0.9496355,
+    "premium_percentage": 4.5,
+    "phonetic_distinctiveness": 99.92462311557789,
+    "pattern_analysis": {
+      "CVC": 1.94854736328125,
+      "CVCV": 2.56195068359375,
+      "common_prefix": 4.65087890625,
+      "common_suffix": 16.925048828125,
+      "simple_plural": 17.5537109375
+    },
+    "typing_ease": {
+      "single_row": 1.4000000000000001,
+      "alternating_hands": 4.3999999999999995,
+      "repeated_letters": 18.2,
+      "common_bigrams": 64.0
+    }
+  }
+}

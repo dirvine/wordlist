@@ -205,7 +205,7 @@ def main():
             print(f"  Issues: {', '.join(data['reasons'])}")
     
     # Save analysis
-    output_dir = Path("output")
+    output_dir = Path("wordlists")
     output_dir.mkdir(exist_ok=True)
     
     with open(output_dir / "word_analysis.json", 'w') as f:

@@ -48,10 +48,12 @@ htmlcov/
 dmypy.json
 
 # Data
-*.txt
-!requirements.txt
-wordlists/
 output/
+
+# Allow wordlists directory
+!wordlists/
+!wordlists/*.txt
+!wordlists/*.json
 
 # OS
 .DS_Store

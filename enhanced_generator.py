@@ -268,11 +268,11 @@ def main():
     print(f"Last 20 words: {wordlist[-20:]}")
     
     # Save outputs
-    output_dir = Path("output")
+    output_dir = Path("wordlists")
     output_dir.mkdir(exist_ok=True)
     
     # Save wordlist
-    save_wordlist(wordlist, "../output/enhanced_wordlist_65536.txt")
+    save_wordlist(wordlist, "../wordlists/enhanced_wordlist_65536.txt")
     
     # Save with metadata
     metadata = {
@@ -287,8 +287,8 @@ def main():
     with open(output_dir / "enhanced_wordlist_65536.json", 'w') as f:
         json.dump(metadata, f, indent=2)
     
-    print(f"\n✓ Saved enhanced wordlist to output/enhanced_wordlist_65536.txt")
-    print("✓ Saved metadata to output/enhanced_wordlist_65536.json")
+    print(f"\n✓ Saved enhanced wordlist to wordlists/enhanced_wordlist_65536.txt")
+    print("✓ Saved metadata to wordlists/enhanced_wordlist_65536.json")
 
 
 if __name__ == "__main__":

@@ -1,0 +1,210 @@
+{
+  "excellent_words": [
+    "bear",
+    "sheep",
+    "red",
+    "purple",
+    "white",
+    "gray",
+    "rock",
+    "wind",
+    "star",
+    "sit",
+    "eat",
+    "read",
+    "ear",
+    "mouth",
+    "back",
+    "tea",
+    "the",
+    "and",
+    "for",
+    "was",
+    "with",
+    "not",
+    "are",
+    "from",
+    "his",
+    "which",
+    "but",
+    "had",
+    "were",
+    "their",
+    "her",
+    "has",
+    "she",
+    "would",
+    "who",
+    "these",
+    "its",
+    "may",
+    "some",
+    "than",
+    "new",
+    "them",
+    "out",
+    "him",
+    "could",
+    "most",
+    "your",
+    "our",
+    "after",
+    "should"
+  ],
+  "criteria": {
+    "excellent_patterns": [
+      "words with consonant-vowel alternation (like 'banana', 'tomato')",
+      "words ending in vowel-consonant (like 'cat', 'dog')",
+      "words with simple CVC structure (like 'hat', 'pen')",
+      "everyday objects (like 'table', 'chair', 'window')",
+      "basic actions (like 'walk', 'talk', 'jump')",
+      "simple emotions (like 'happy', 'sad', 'angry')",
+      "colors (like 'blue', 'green', 'yellow')",
+      "animals (like 'bird', 'fish', 'bear')",
+      "body parts (like 'hand', 'foot', 'head')",
+      "nature words (like 'tree', 'rock', 'rain')",
+      "food items (like 'apple', 'bread', 'milk')",
+      "words with distinct consonant sounds",
+      "words avoiding similar-sounding syllables",
+      "words with clear vowel sounds"
+    ],
+    "avoid_patterns": [
+      "multiple consonants together (like 'strength', 'twelfth')",
+      "silent letters (like 'knight', 'gnome', 'psalm')",
+      "unusual letter combinations (like 'phlegm', 'rhythm')",
+      "words ending in -tion/-sion (easily confused)",
+      "words with 'th' sounds (hard for non-native speakers)",
+      "words with 'ough' (multiple pronunciations)",
+      "homophones (sound the same as other words)",
+      "words easily misheard over phone/radio",
+      "technical or specialized vocabulary",
+      "archaic or obsolete words",
+      "slang or informal words",
+      "words with multiple meanings"
+    ],
+    "ideal_characteristics": [
+      "3-7 letters long",
+      "1-3 syllables",
+      "stress on first syllable",
+      "common in everyday speech",
+      "easy to spell",
+      "distinct from other words when spoken",
+      "culturally neutral",
+      "appropriate for all ages"
+    ]
+  },
+  "sample_analysis": {
+    "bear": {
+      "word": "bear",
+      "score": 1.0,
+      "length": 4,
+      "reasons": [],
+      "characteristics": [
+        "ideal length",
+        "good CV pattern",
+        "2 syllables"
+      ]
+    },
+    "sheep": {
+      "word": "sheep",
+      "score": 0.9800000000000001,
+      "length": 5,
+      "reasons": [
+        "Contains double letters"
+      ],
+      "characteristics": [
+        "ideal length",
+        "good CV pattern",
+        "2 syllables"
+      ]
+    },
+    "red": {
+      "word": "red",
+      "score": 0.94,
+      "length": 3,
+      "reasons": [],
+      "characteristics": [
+        "ideal length",
+        "good CV pattern",
+        "1 syllables"
+      ]
+    },
+    "purple": {
+      "word": "purple",
+      "score": 1.0,
+      "length": 6,
+      "reasons": [],
+      "characteristics": [
+        "ideal length",
+        "good CV pattern",
+        "2 syllables"
+      ]
+    },
+    "white": {
+      "word": "white",
+      "score": 1.0,
+      "length": 5,
+      "reasons": [],
+      "characteristics": [
+        "ideal length",
+        "good CV pattern",
+        "2 syllables"
+      ]
+    },
+    "gray": {
+      "word": "gray",
+      "score": 1.0,
+      "length": 4,
+      "reasons": [],
+      "characteristics": [
+        "ideal length",
+        "good CV pattern",
+        "1 syllables"
+      ]
+    },
+    "rock": {
+      "word": "rock",
+      "score": 1.0,
+      "length": 4,
+      "reasons": [],
+      "characteristics": [
+        "ideal length",
+        "good CV pattern",
+        "1 syllables"
+      ]
+    },
+    "wind": {
+      "word": "wind",
+      "score": 1.0,
+      "length": 4,
+      "reasons": [],
+      "characteristics": [
+        "ideal length",
+        "good CV pattern",
+        "1 syllables"
+      ]
+    },
+    "star": {
+      "word": "star",
+      "score": 1.0,
+      "length": 4,
+      "reasons": [],
+      "characteristics": [
+        "ideal length",
+        "good CV pattern",
+        "1 syllables"
+      ]
+    },
+    "sit": {
+      "word": "sit",
+      "score": 0.94,
+      "length": 3,
+      "reasons": [],
+      "characteristics": [
+        "ideal length",
+        "good CV pattern",
+        "1 syllables"
+      ]
+    }
+  }
+}

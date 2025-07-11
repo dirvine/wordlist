@@ -96,34 +96,26 @@ The Claude-optimized wordlist achieves:
 - **Strong pattern recognition** - 81.4% with clear consonants
 - **Typing ease** - optimized for keyboard patterns
 
-## Output Formats
+## Generated Wordlists
 
-### Plain Text
-```
-# output/claude_optimized_65536.txt
-cat
-dog
-tree
-house
-...
-```
+All generated wordlists are available in the [`wordlists/`](wordlists/) directory:
 
-### JSON with Metadata
-```json
-{
-  "version": "3.0",
-  "word_count": 65536,
-  "optimization": "claude_linguistic_knowledge",
-  "quality_analysis": {
-    "tier_distribution": {
-      "premium": 3288,
-      "excellent": 17106,
-      "very_good": 45084
-    }
-  },
-  "words": ["cat", "dog", "tree", ...]
-}
-```
+### Ready-to-Use Wordlists
+- **[`claude_optimized_65536.txt`](wordlists/claude_optimized_65536.txt)** - **Recommended** - Highest quality with linguistic optimization
+- **[`enhanced_wordlist_65536.txt`](wordlists/enhanced_wordlist_65536.txt)** - Quality tiers with homophone filtering
+- **[`wordlist_65536.txt`](wordlists/wordlist_65536.txt)** - Basic generation with simple filtering
+
+### JSON Format with Metadata
+Each wordlist includes a JSON version with comprehensive metadata:
+- **[`claude_optimized_65536.json`](wordlists/claude_optimized_65536.json)** - Includes quality analysis and generation details
+- **[`enhanced_wordlist_65536.json`](wordlists/enhanced_wordlist_65536.json)** - Quality tier distribution data
+- **[`wordlist_65536.json`](wordlists/wordlist_65536.json)** - Basic generation metadata
+
+### Analysis Files
+- **[`readability_evaluation.json`](wordlists/readability_evaluation.json)** - Comprehensive quality comparison
+- **[`word_analysis.json`](wordlists/word_analysis.json)** - Linguistic feature analysis
+
+See the [wordlists README](wordlists/README.md) for detailed information about each wordlist.
 
 ## Development
 

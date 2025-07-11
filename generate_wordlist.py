@@ -144,7 +144,7 @@ def generate_wordlist() -> List[str]:
 
 def save_final_wordlist(words: List[str]) -> None:
     """Save the final wordlist in multiple formats."""
-    output_dir = Path("output")
+    output_dir = Path("wordlists")
     output_dir.mkdir(exist_ok=True)
     
     # Save as plain text

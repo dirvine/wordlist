@@ -22,7 +22,7 @@ from typing import Dict, List, Set
 
 def load_wordlist(filename: str) -> List[str]:
     """Load a wordlist from file."""
-    path = Path("output") / filename
+    path = Path("wordlists") / filename
     if not path.exists():
         return []
     
