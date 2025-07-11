@@ -1,0 +1,997 @@
+[
+  {
+    "batch": 1,
+    "total": 1000,
+    "accepted": 931,
+    "rejected": 69,
+    "acceptance_rate": 0.931,
+    "rejection_summary": {
+      "foreign word": 3,
+      "proper noun": 52,
+      "abbreviation": 10,
+      "no vowels": 1,
+      "triple letter pattern": 1,
+      "too many consecutive consonants": 2
+    }
+  },
+  {
+    "batch": 2,
+    "total": 1000,
+    "accepted": 936,
+    "rejected": 64,
+    "acceptance_rate": 0.936,
+    "rejection_summary": {
+      "abbreviation": 11,
+      "proper noun": 46,
+      "too many consecutive consonants": 3,
+      "foreign word": 2,
+      "no vowels": 1,
+      "inappropriate/offensive": 1
+    }
+  },
+  {
+    "batch": 3,
+    "total": 1000,
+    "accepted": 917,
+    "rejected": 83,
+    "acceptance_rate": 0.917,
+    "rejection_summary": {
+      "archaic word": 2,
+      "proper noun": 62,
+      "abbreviation": 14,
+      "too many consecutive consonants": 1,
+      "foreign word": 3,
+      "triple letter pattern": 1
+    }
+  },
+  {
+    "batch": 4,
+    "total": 1000,
+    "accepted": 897,
+    "rejected": 103,
+    "acceptance_rate": 0.897,
+    "rejection_summary": {
+      "abbreviation": 10,
+      "proper noun": 88,
+      "archaic word": 2,
+      "foreign word": 2,
+      "too many consecutive consonants": 1
+    }
+  },
+  {
+    "batch": 5,
+    "total": 1000,
+    "accepted": 909,
+    "rejected": 91,
+    "acceptance_rate": 0.909,
+    "rejection_summary": {
+      "proper noun": 79,
+      "abbreviation": 4,
+      "too many consecutive consonants": 6,
+      "inappropriate/offensive": 1,
+      "archaic word": 1
+    }
+  },
+  {
+    "batch": 6,
+    "total": 1000,
+    "accepted": 903,
+    "rejected": 97,
+    "acceptance_rate": 0.903,
+    "rejection_summary": {
+      "proper noun": 80,
+      "too many consecutive consonants": 8,
+      "foreign word": 6,
+      "no vowels": 1,
+      "triple letter pattern": 1,
+      "too many consecutive vowels": 1
+    }
+  },
+  {
+    "batch": 7,
+    "total": 1000,
+    "accepted": 909,
+    "rejected": 91,
+    "acceptance_rate": 0.909,
+    "rejection_summary": {
+      "proper noun": 73,
+      "too many consecutive consonants": 8,
+      "abbreviation": 5,
+      "inappropriate/offensive": 2,
+      "too many consecutive vowels": 1,
+      "unusual starting pattern": 1,
+      "no vowels": 1
+    }
+  },
+  {
+    "batch": 8,
+    "total": 1000,
+    "accepted": 923,
+    "rejected": 77,
+    "acceptance_rate": 0.923,
+    "rejection_summary": {
+      "proper noun": 61,
+      "too many consecutive consonants": 5,
+      "no vowels": 2,
+      "foreign word": 3,
+      "abbreviation": 2,
+      "archaic word": 2,
+      "unusual starting pattern": 2
+    }
+  },
+  {
+    "batch": 9,
+    "total": 1000,
+    "accepted": 936,
+    "rejected": 64,
+    "acceptance_rate": 0.936,
+    "rejection_summary": {
+      "proper noun": 45,
+      "foreign word": 4,
+      "abbreviation": 3,
+      "unusual starting pattern": 1,
+      "no vowels": 5,
+      "too many consecutive consonants": 4,
+      "too many consecutive vowels": 1,
+      "archaic word": 1
+    }
+  },
+  {
+    "batch": 10,
+    "total": 1000,
+    "accepted": 945,
+    "rejected": 55,
+    "acceptance_rate": 0.945,
+    "rejection_summary": {
+      "proper noun": 40,
+      "too many consecutive consonants": 7,
+      "abbreviation": 2,
+      "foreign word": 2,
+      "no vowels": 3,
+      "inappropriate/offensive": 1
+    }
+  },
+  {
+    "batch": 11,
+    "total": 1000,
+    "accepted": 953,
+    "rejected": 47,
+    "acceptance_rate": 0.953,
+    "rejection_summary": {
+      "inappropriate/offensive": 3,
+      "proper noun": 30,
+      "too many consecutive consonants": 4,
+      "no vowels": 3,
+      "archaic word": 2,
+      "foreign word": 1,
+      "abbreviation": 2,
+      "unusual starting pattern": 1,
+      "too many consecutive vowels": 1
+    }
+  },
+  {
+    "batch": 12,
+    "total": 1000,
+    "accepted": 967,
+    "rejected": 33,
+    "acceptance_rate": 0.967,
+    "rejection_summary": {
+      "no vowels": 4,
+      "proper noun": 20,
+      "too many consecutive consonants": 5,
+      "unusual starting pattern": 1,
+      "abbreviation": 2,
+      "foreign word": 1
+    }
+  },
+  {
+    "batch": 13,
+    "total": 1000,
+    "accepted": 957,
+    "rejected": 43,
+    "acceptance_rate": 0.957,
+    "rejection_summary": {
+      "proper noun": 28,
+      "no vowels": 3,
+      "archaic word": 2,
+      "triple letter pattern": 1,
+      "unusual starting pattern": 2,
+      "foreign word": 2,
+      "too many consecutive consonants": 4,
+      "abbreviation": 1
+    }
+  },
+  {
+    "batch": 14,
+    "total": 1000,
+    "accepted": 962,
+    "rejected": 38,
+    "acceptance_rate": 0.962,
+    "rejection_summary": {
+      "foreign word": 3,
+      "proper noun": 22,
+      "no vowels": 6,
+      "triple letter pattern": 1,
+      "too many consecutive consonants": 4,
+      "unusual starting pattern": 1,
+      "archaic word": 1
+    }
+  },
+  {
+    "batch": 15,
+    "total": 1000,
+    "accepted": 965,
+    "rejected": 35,
+    "acceptance_rate": 0.965,
+    "rejection_summary": {
+      "proper noun": 14,
+      "no vowels": 8,
+      "too many consecutive consonants": 8,
+      "unusual starting pattern": 1,
+      "foreign word": 2,
+      "inappropriate/offensive": 1,
+      "abbreviation": 1
+    }
+  },
+  {
+    "batch": 16,
+    "total": 1000,
+    "accepted": 961,
+    "rejected": 39,
+    "acceptance_rate": 0.961,
+    "rejection_summary": {
+      "proper noun": 18,
+      "no vowels": 7,
+      "too many consecutive consonants": 5,
+      "archaic word": 1,
+      "abbreviation": 2,
+      "foreign word": 3,
+      "unusual starting pattern": 2,
+      "inappropriate/offensive": 1
+    }
+  },
+  {
+    "batch": 17,
+    "total": 1000,
+    "accepted": 959,
+    "rejected": 41,
+    "acceptance_rate": 0.959,
+    "rejection_summary": {
+      "no vowels": 8,
+      "foreign word": 4,
+      "inappropriate/offensive": 1,
+      "proper noun": 13,
+      "too many consecutive consonants": 9,
+      "triple letter pattern": 1,
+      "archaic word": 2,
+      "unusual starting pattern": 1,
+      "abbreviation": 2
+    }
+  },
+  {
+    "batch": 18,
+    "total": 1000,
+    "accepted": 967,
+    "rejected": 33,
+    "acceptance_rate": 0.967,
+    "rejection_summary": {
+      "proper noun": 12,
+      "no vowels": 10,
+      "unusual starting pattern": 1,
+      "foreign word": 1,
+      "too many consecutive consonants": 5,
+      "abbreviation": 2,
+      "triple letter pattern": 1,
+      "archaic word": 1
+    }
+  },
+  {
+    "batch": 19,
+    "total": 1000,
+    "accepted": 969,
+    "rejected": 31,
+    "acceptance_rate": 0.969,
+    "rejection_summary": {
+      "archaic word": 1,
+      "foreign word": 4,
+      "no vowels": 9,
+      "proper noun": 9,
+      "too many consecutive consonants": 5,
+      "unusual starting pattern": 1,
+      "abbreviation": 1,
+      "triple letter pattern": 1
+    }
+  },
+  {
+    "batch": 20,
+    "total": 1000,
+    "accepted": 972,
+    "rejected": 28,
+    "acceptance_rate": 0.972,
+    "rejection_summary": {
+      "no vowels": 8,
+      "foreign word": 1,
+      "proper noun": 12,
+      "abbreviation": 2,
+      "too many consecutive consonants": 1,
+      "unusual starting pattern": 1,
+      "triple letter pattern": 1,
+      "archaic word": 1,
+      "inappropriate/offensive": 1
+    }
+  },
+  {
+    "batch": 21,
+    "total": 1000,
+    "accepted": 978,
+    "rejected": 22,
+    "acceptance_rate": 0.978,
+    "rejection_summary": {
+      "too many consecutive consonants": 6,
+      "proper noun": 5,
+      "no vowels": 9,
+      "foreign word": 1,
+      "abbreviation": 1
+    }
+  },
+  {
+    "batch": 22,
+    "total": 1000,
+    "accepted": 973,
+    "rejected": 27,
+    "acceptance_rate": 0.973,
+    "rejection_summary": {
+      "too many consecutive vowels": 2,
+      "no vowels": 9,
+      "proper noun": 8,
+      "too many consecutive consonants": 5,
+      "unusual starting pattern": 2,
+      "triple letter pattern": 1
+    }
+  },
+  {
+    "batch": 23,
+    "total": 1000,
+    "accepted": 975,
+    "rejected": 25,
+    "acceptance_rate": 0.975,
+    "rejection_summary": {
+      "unusual starting pattern": 1,
+      "no vowels": 13,
+      "too many consecutive consonants": 3,
+      "proper noun": 6,
+      "abbreviation": 1,
+      "no consonants": 1
+    }
+  },
+  {
+    "batch": 24,
+    "total": 1000,
+    "accepted": 975,
+    "rejected": 25,
+    "acceptance_rate": 0.975,
+    "rejection_summary": {
+      "unusual starting pattern": 3,
+      "no vowels": 9,
+      "proper noun": 4,
+      "too many consecutive consonants": 8,
+      "abbreviation": 1
+    }
+  },
+  {
+    "batch": 25,
+    "total": 1000,
+    "accepted": 982,
+    "rejected": 18,
+    "acceptance_rate": 0.982,
+    "rejection_summary": {
+      "no vowels": 8,
+      "foreign word": 2,
+      "abbreviation": 1,
+      "too many consecutive consonants": 4,
+      "proper noun": 2,
+      "no consonants": 1
+    }
+  },
+  {
+    "batch": 26,
+    "total": 1000,
+    "accepted": 979,
+    "rejected": 21,
+    "acceptance_rate": 0.979,
+    "rejection_summary": {
+      "unusual starting pattern": 3,
+      "no vowels": 10,
+      "too many consecutive consonants": 5,
+      "abbreviation": 1,
+      "too many consecutive vowels": 1,
+      "proper noun": 1
+    }
+  },
+  {
+    "batch": 27,
+    "total": 1000,
+    "accepted": 969,
+    "rejected": 31,
+    "acceptance_rate": 0.969,
+    "rejection_summary": {
+      "too many consecutive consonants": 8,
+      "no vowels": 15,
+      "proper noun": 4,
+      "unusual starting pattern": 1,
+      "too many consecutive vowels": 1,
+      "foreign word": 2
+    }
+  },
+  {
+    "batch": 28,
+    "total": 1000,
+    "accepted": 967,
+    "rejected": 33,
+    "acceptance_rate": 0.967,
+    "rejection_summary": {
+      "proper noun": 9,
+      "inappropriate/offensive": 2,
+      "too many consecutive consonants": 8,
+      "no vowels": 10,
+      "unusual starting pattern": 2,
+      "archaic word": 1,
+      "no consonants": 1
+    }
+  },
+  {
+    "batch": 29,
+    "total": 1000,
+    "accepted": 967,
+    "rejected": 33,
+    "acceptance_rate": 0.967,
+    "rejection_summary": {
+      "no vowels": 18,
+      "too many consecutive consonants": 8,
+      "proper noun": 7
+    }
+  },
+  {
+    "batch": 30,
+    "total": 1000,
+    "accepted": 964,
+    "rejected": 36,
+    "acceptance_rate": 0.964,
+    "rejection_summary": {
+      "too many consecutive consonants": 12,
+      "no vowels": 16,
+      "foreign word": 2,
+      "unusual starting pattern": 2,
+      "proper noun": 2,
+      "too many consecutive vowels": 1,
+      "abbreviation": 1
+    }
+  },
+  {
+    "batch": 31,
+    "total": 1000,
+    "accepted": 974,
+    "rejected": 26,
+    "acceptance_rate": 0.974,
+    "rejection_summary": {
+      "no vowels": 14,
+      "too many consecutive consonants": 4,
+      "proper noun": 1,
+      "unusual starting pattern": 2,
+      "abbreviation": 3,
+      "triple letter pattern": 1,
+      "foreign word": 1
+    }
+  },
+  {
+    "batch": 32,
+    "total": 1000,
+    "accepted": 979,
+    "rejected": 21,
+    "acceptance_rate": 0.979,
+    "rejection_summary": {
+      "no vowels": 13,
+      "proper noun": 2,
+      "too many consecutive consonants": 5,
+      "unusual starting pattern": 1
+    }
+  },
+  {
+    "batch": 33,
+    "total": 1000,
+    "accepted": 965,
+    "rejected": 35,
+    "acceptance_rate": 0.965,
+    "rejection_summary": {
+      "no vowels": 25,
+      "abbreviation": 2,
+      "too many consecutive consonants": 4,
+      "foreign word": 1,
+      "proper noun": 3
+    }
+  },
+  {
+    "batch": 34,
+    "total": 1000,
+    "accepted": 967,
+    "rejected": 33,
+    "acceptance_rate": 0.967,
+    "rejection_summary": {
+      "no vowels": 22,
+      "too many consecutive consonants": 6,
+      "abbreviation": 1,
+      "unusual starting pattern": 2,
+      "proper noun": 1,
+      "no consonants": 1
+    }
+  },
+  {
+    "batch": 35,
+    "total": 1000,
+    "accepted": 976,
+    "rejected": 24,
+    "acceptance_rate": 0.976,
+    "rejection_summary": {
+      "no vowels": 15,
+      "foreign word": 1,
+      "too many consecutive vowels": 1,
+      "too many consecutive consonants": 3,
+      "no consonants": 2,
+      "proper noun": 2
+    }
+  },
+  {
+    "batch": 36,
+    "total": 1000,
+    "accepted": 966,
+    "rejected": 34,
+    "acceptance_rate": 0.966,
+    "rejection_summary": {
+      "no vowels": 19,
+      "too many consecutive consonants": 8,
+      "unusual starting pattern": 4,
+      "no consonants": 1,
+      "too many consecutive vowels": 1,
+      "abbreviation": 1
+    }
+  },
+  {
+    "batch": 37,
+    "total": 1000,
+    "accepted": 971,
+    "rejected": 29,
+    "acceptance_rate": 0.971,
+    "rejection_summary": {
+      "too many consecutive consonants": 6,
+      "no vowels": 17,
+      "unusual starting pattern": 3,
+      "proper noun": 2,
+      "abbreviation": 1
+    }
+  },
+  {
+    "batch": 38,
+    "total": 1000,
+    "accepted": 972,
+    "rejected": 28,
+    "acceptance_rate": 0.972,
+    "rejection_summary": {
+      "no vowels": 17,
+      "unusual starting pattern": 2,
+      "triple letter pattern": 1,
+      "too many consecutive consonants": 5,
+      "proper noun": 2,
+      "no consonants": 1
+    }
+  },
+  {
+    "batch": 39,
+    "total": 1000,
+    "accepted": 972,
+    "rejected": 28,
+    "acceptance_rate": 0.972,
+    "rejection_summary": {
+      "no vowels": 20,
+      "proper noun": 2,
+      "too many consecutive consonants": 5,
+      "no consonants": 1
+    }
+  },
+  {
+    "batch": 40,
+    "total": 1000,
+    "accepted": 959,
+    "rejected": 41,
+    "acceptance_rate": 0.959,
+    "rejection_summary": {
+      "no vowels": 28,
+      "too many consecutive consonants": 6,
+      "proper noun": 3,
+      "foreign word": 1,
+      "unusual starting pattern": 1,
+      "inappropriate/offensive": 1,
+      "too many consecutive vowels": 1
+    }
+  },
+  {
+    "batch": 41,
+    "total": 1000,
+    "accepted": 963,
+    "rejected": 37,
+    "acceptance_rate": 0.963,
+    "rejection_summary": {
+      "too many consecutive consonants": 13,
+      "no vowels": 12,
+      "proper noun": 3,
+      "too many consecutive vowels": 2,
+      "triple letter pattern": 2,
+      "unusual starting pattern": 4,
+      "no consonants": 1
+    }
+  },
+  {
+    "batch": 42,
+    "total": 1000,
+    "accepted": 968,
+    "rejected": 32,
+    "acceptance_rate": 0.968,
+    "rejection_summary": {
+      "inappropriate/offensive": 2,
+      "no vowels": 19,
+      "proper noun": 1,
+      "too many consecutive consonants": 6,
+      "unusual starting pattern": 2,
+      "foreign word": 2
+    }
+  },
+  {
+    "batch": 43,
+    "total": 1000,
+    "accepted": 966,
+    "rejected": 34,
+    "acceptance_rate": 0.966,
+    "rejection_summary": {
+      "no vowels": 25,
+      "too many consecutive consonants": 4,
+      "unusual starting pattern": 3,
+      "no consonants": 1,
+      "proper noun": 1
+    }
+  },
+  {
+    "batch": 44,
+    "total": 1000,
+    "accepted": 969,
+    "rejected": 31,
+    "acceptance_rate": 0.969,
+    "rejection_summary": {
+      "no vowels": 21,
+      "unusual starting pattern": 1,
+      "too many consecutive consonants": 9
+    }
+  },
+  {
+    "batch": 45,
+    "total": 1000,
+    "accepted": 969,
+    "rejected": 31,
+    "acceptance_rate": 0.969,
+    "rejection_summary": {
+      "no vowels": 19,
+      "no consonants": 1,
+      "proper noun": 3,
+      "too many consecutive consonants": 6,
+      "unusual starting pattern": 1,
+      "triple letter pattern": 1
+    }
+  },
+  {
+    "batch": 46,
+    "total": 1000,
+    "accepted": 975,
+    "rejected": 25,
+    "acceptance_rate": 0.975,
+    "rejection_summary": {
+      "foreign word": 1,
+      "no vowels": 13,
+      "too many consecutive consonants": 8,
+      "unusual starting pattern": 1,
+      "too many consecutive vowels": 1,
+      "proper noun": 1
+    }
+  },
+  {
+    "batch": 47,
+    "total": 1000,
+    "accepted": 952,
+    "rejected": 48,
+    "acceptance_rate": 0.952,
+    "rejection_summary": {
+      "too many consecutive consonants": 12,
+      "no vowels": 29,
+      "proper noun": 1,
+      "no consonants": 1,
+      "unusual starting pattern": 3,
+      "too many consecutive vowels": 1,
+      "foreign word": 1
+    }
+  },
+  {
+    "batch": 48,
+    "total": 1000,
+    "accepted": 963,
+    "rejected": 37,
+    "acceptance_rate": 0.963,
+    "rejection_summary": {
+      "no vowels": 27,
+      "too many consecutive consonants": 8,
+      "proper noun": 1,
+      "unusual starting pattern": 1
+    }
+  },
+  {
+    "batch": 49,
+    "total": 1000,
+    "accepted": 968,
+    "rejected": 32,
+    "acceptance_rate": 0.968,
+    "rejection_summary": {
+      "no vowels": 19,
+      "unusual starting pattern": 1,
+      "too many consecutive consonants": 8,
+      "too many consecutive vowels": 1,
+      "proper noun": 1,
+      "triple letter pattern": 1,
+      "no consonants": 1
+    }
+  },
+  {
+    "batch": 50,
+    "total": 1000,
+    "accepted": 962,
+    "rejected": 38,
+    "acceptance_rate": 0.962,
+    "rejection_summary": {
+      "no vowels": 25,
+      "too many consecutive consonants": 8,
+      "too many consecutive vowels": 2,
+      "proper noun": 2,
+      "abbreviation": 1
+    }
+  },
+  {
+    "batch": 51,
+    "total": 1000,
+    "accepted": 970,
+    "rejected": 30,
+    "acceptance_rate": 0.97,
+    "rejection_summary": {
+      "no vowels": 23,
+      "unusual starting pattern": 1,
+      "too many consecutive consonants": 5,
+      "foreign word": 1
+    }
+  },
+  {
+    "batch": 52,
+    "total": 1000,
+    "accepted": 965,
+    "rejected": 35,
+    "acceptance_rate": 0.965,
+    "rejection_summary": {
+      "no vowels": 26,
+      "too many consecutive consonants": 7,
+      "proper noun": 1,
+      "inappropriate/offensive": 1
+    }
+  },
+  {
+    "batch": 53,
+    "total": 1000,
+    "accepted": 953,
+    "rejected": 47,
+    "acceptance_rate": 0.953,
+    "rejection_summary": {
+      "too many consecutive consonants": 8,
+      "no vowels": 31,
+      "too many consecutive vowels": 1,
+      "triple letter pattern": 2,
+      "unusual starting pattern": 2,
+      "proper noun": 3
+    }
+  },
+  {
+    "batch": 54,
+    "total": 1000,
+    "accepted": 967,
+    "rejected": 33,
+    "acceptance_rate": 0.967,
+    "rejection_summary": {
+      "no vowels": 18,
+      "unusual starting pattern": 1,
+      "too many consecutive consonants": 9,
+      "triple letter pattern": 2,
+      "proper noun": 2,
+      "no consonants": 1
+    }
+  },
+  {
+    "batch": 55,
+    "total": 1000,
+    "accepted": 960,
+    "rejected": 40,
+    "acceptance_rate": 0.96,
+    "rejection_summary": {
+      "too many consecutive consonants": 8,
+      "no vowels": 29,
+      "foreign word": 1,
+      "triple letter pattern": 1,
+      "too many consecutive vowels": 1
+    }
+  },
+  {
+    "batch": 56,
+    "total": 1000,
+    "accepted": 966,
+    "rejected": 34,
+    "acceptance_rate": 0.966,
+    "rejection_summary": {
+      "no vowels": 27,
+      "too many consecutive consonants": 5,
+      "unusual starting pattern": 1,
+      "triple letter pattern": 1
+    }
+  },
+  {
+    "batch": 57,
+    "total": 1000,
+    "accepted": 964,
+    "rejected": 36,
+    "acceptance_rate": 0.964,
+    "rejection_summary": {
+      "no vowels": 23,
+      "too many consecutive consonants": 11,
+      "no consonants": 1,
+      "proper noun": 1
+    }
+  },
+  {
+    "batch": 58,
+    "total": 1000,
+    "accepted": 968,
+    "rejected": 32,
+    "acceptance_rate": 0.968,
+    "rejection_summary": {
+      "no vowels": 25,
+      "too many consecutive consonants": 5,
+      "triple letter pattern": 1,
+      "unusual starting pattern": 1
+    }
+  },
+  {
+    "batch": 59,
+    "total": 1000,
+    "accepted": 956,
+    "rejected": 44,
+    "acceptance_rate": 0.956,
+    "rejection_summary": {
+      "no vowels": 32,
+      "no consonants": 1,
+      "proper noun": 1,
+      "unusual starting pattern": 1,
+      "too many consecutive vowels": 2,
+      "triple letter pattern": 1,
+      "too many consecutive consonants": 6
+    }
+  },
+  {
+    "batch": 60,
+    "total": 1000,
+    "accepted": 970,
+    "rejected": 30,
+    "acceptance_rate": 0.97,
+    "rejection_summary": {
+      "no vowels": 21,
+      "no consonants": 2,
+      "too many consecutive consonants": 6,
+      "unusual starting pattern": 1
+    }
+  },
+  {
+    "batch": 61,
+    "total": 1000,
+    "accepted": 967,
+    "rejected": 33,
+    "acceptance_rate": 0.967,
+    "rejection_summary": {
+      "no vowels": 27,
+      "unusual starting pattern": 2,
+      "too many consecutive consonants": 4
+    }
+  },
+  {
+    "batch": 62,
+    "total": 1000,
+    "accepted": 983,
+    "rejected": 17,
+    "acceptance_rate": 0.983,
+    "rejection_summary": {
+      "triple letter pattern": 1,
+      "too many consecutive consonants": 3,
+      "no vowels": 13
+    }
+  },
+  {
+    "batch": 63,
+    "total": 1000,
+    "accepted": 969,
+    "rejected": 31,
+    "acceptance_rate": 0.969,
+    "rejection_summary": {
+      "no vowels": 21,
+      "too many consecutive consonants": 6,
+      "too many consecutive vowels": 1,
+      "triple letter pattern": 2,
+      "no consonants": 1
+    }
+  },
+  {
+    "batch": 64,
+    "total": 1000,
+    "accepted": 967,
+    "rejected": 33,
+    "acceptance_rate": 0.967,
+    "rejection_summary": {
+      "no vowels": 15,
+      "too many consecutive consonants": 12,
+      "no consonants": 3,
+      "unusual starting pattern": 2,
+      "foreign word": 1
+    }
+  },
+  {
+    "batch": 65,
+    "total": 1000,
+    "accepted": 952,
+    "rejected": 48,
+    "acceptance_rate": 0.952,
+    "rejection_summary": {
+      "no vowels": 37,
+      "too many consecutive consonants": 5,
+      "too many consecutive vowels": 2,
+      "no consonants": 1,
+      "triple letter pattern": 1,
+      "unusual starting pattern": 1,
+      "proper noun": 1
+    }
+  },
+  {
+    "batch": 66,
+    "total": 1000,
+    "accepted": 957,
+    "rejected": 43,
+    "acceptance_rate": 0.957,
+    "rejection_summary": {
+      "no vowels": 32,
+      "too many consecutive consonants": 5,
+      "triple letter pattern": 1,
+      "too many consecutive vowels": 1,
+      "no consonants": 1,
+      "unusual starting pattern": 1,
+      "proper noun": 2
+    }
+  },
+  {
+    "batch": 67,
+    "total": 1000,
+    "accepted": 964,
+    "rejected": 36,
+    "acceptance_rate": 0.964,
+    "rejection_summary": {
+      "no vowels": 32,
+      "too many consecutive consonants": 2,
+      "abbreviation": 1,
+      "proper noun": 1
+    }
+  }
+]

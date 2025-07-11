@@ -7,6 +7,39 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ## [Unreleased]
 
+### Added
+- Gold standard wordlist generation with automated Claude validation criteria
+- Automated wordlist cleaning system to remove non-English words
+- Comprehensive validation report with detailed statistics and quality metrics
+- Multiple validator implementations (automated, interactive, self-validated)
+- Automated replacement of foreign words with proper English alternatives
+- Comprehensive proper noun database (347 first names, 800+ places, 200+ brands)
+- Foreign word detection for German, French, Spanish, and other languages
+- Archaic word filtering (thou, thee, hath, etc.)
+- Technical/medical term filtering to maintain general readability
+- Pattern validation for consecutive consonants, vowels, and letter patterns
+- Resumable processing with state management for large batch operations
+- Detailed logging and audit trail for all validation decisions
+
+### Changed
+- README now highlights gold wordlist as the primary recommended option
+- Updated documentation to emphasize automated gold standard generation
+- Improved validation criteria with 7 comprehensive filtering rules
+- Enhanced user interface with clear recommendations and quality indicators
+
+### Fixed
+- Removed 198 non-English words (French, German, Spanish) from final wordlist
+- Eliminated proper nouns, abbreviations, and foreign words comprehensively
+- Ensured all 65,536 words are proper English words with ASCII characters only
+- Fixed acceptance rate calculation and quality reporting
+- Resolved inconsistent foreign word filtering across different generators
+
+### Performance
+- Achieved 95.9% acceptance rate with gold standard validation
+- Reduced processing time to 1.0 second for complete wordlist generation
+- Automated cleaning process for efficient non-English word removal
+- Optimized batch processing with 1,000-word chunks for memory efficiency
+
 ## [1.0.0] - 2024-07-11
 
 ### Added

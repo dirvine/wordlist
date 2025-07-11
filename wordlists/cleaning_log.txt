@@ -1,0 +1,409 @@
+WORDLIST CLEANING LOG
+==================================================
+
+Total words processed: 65536
+Non-English words found: 198
+Replacements made: 198
+Final clean words: 65536
+
+REPLACEMENTS MADE:
+----------------------------------------
+Position 35: 'abbé' → 'olam'
+Position 267: 'académie' → 'cobalamin'
+Position 557: 'activité' → 'activites'
+Position 558: 'activités' → 'reynold'
+Position 2125: 'américa' → 'ashrama'
+Position 2294: 'andré' → 'contemporain'
+Position 2498: 'année' → 'hermite'
+Position 2499: 'années' → 'prester'
+Position 3001: 'après' → 'salpingitis'
+Position 3033: 'aquí' → 'mebbe'
+Position 3812: 'así' → 'expensed'
+Position 4417: 'años' → 'spunk'
+Position 5473: 'beiträge' → 'vinny'
+Position 5962: 'bibliothèque' → 'nobleness'
+Position 6688: 'bogotá' → 'motta'
+Position 8283: 'café' → 'eze'
+Position 8771: 'caractère' → 'guten'
+Position 10404: 'château' → 'trundled'
+Position 10543: 'città' → 'bialik'
+Position 11502: 'comité' → 'owi'
+Position 11600: 'communauté' → 'insets'
+Position 12564: 'contrôle' → 'subtotals'
+Position 13012: 'così' → 'dunstable'
+Position 13735: 'création' → 'dilip'
+Position 14126: 'cómo' → 'hoyer'
+Position 14127: 'côte' → 'lue'
+Position 14483: 'daß' → 'leafs'
+Position 15394: 'dernière' → 'isokinetic'
+Position 15518: 'después' → 'tilghman'
+Position 15644: 'deuxième' → 'appelbaum'
+Position 15972: 'différentes' → 'setpoint'
+Position 15973: 'différents' → 'vitiligo'
+Position 16175: 'dirección' → 'matthean'
+Position 17020: 'donné' → 'peeler'
+Position 17021: 'données' → 'preliterate'
+Position 17689: 'durée' → 'laminating'
+Position 17783: 'début' → 'tratado'
+Position 17784: 'día' → 'ehrr'
+Position 17785: 'días' → 'castrate'
+Position 17786: 'díaz' → 'explications'
+Position 17988: 'economía' → 'morningside'
+Position 17989: 'económica' → 'cauldrons'
+Position 18096: 'educación' → 'banos'
+Position 19250: 'entrée' → 'gillman'
+Position 19704: 'españa' → 'aerials'
+Position 19705: 'español' → 'hordeum'
+Position 19706: 'española' → 'collider'
+Position 19725: 'espèces' → 'pfi'
+Position 19820: 'está' → 'asana'
+Position 19821: 'están' → 'liberatory'
+Position 19953: 'européenne' → 'peur'
+Position 20559: 'expérience' → 'birthrates'
+Position 21178: 'façade' → 'fafsa'
+Position 21179: 'façon' → 'khurasan'
+Position 21407: 'fernández' → 'soci'
+Position 22891: 'français' → 'stillwell'
+Position 22892: 'française' → 'ophir'
+Position 22893: 'françois' → 'babb'
+Position 23621: 'garcía' → 'hollings'
+Position 23825: 'gegenüber' → 'liposuction'
+Position 24325: 'già' → 'skewing'
+Position 24706: 'gonzález' → 'symeon'
+Position 25367: 'großen' → 'nanyang'
+Position 25406: 'grâce' → 'extricating'
+Position 25664: 'général' → 'typee'
+Position 25665: 'générale' → 'smrti'
+Position 25666: 'gómez' → 'upholder'
+Position 25667: 'göttingen' → 'eitf'
+Position 25703: 'había' → 'baryons'
+Position 28480: 'idée' → 'ahmadu'
+Position 28481: 'idées' → 'fleishman'
+Position 30292: 'intérieur' → 'ferredoxin'
+Position 30293: 'intérêt' → 'papadopoulos'
+Position 31310: 'josé' → 'ansar'
+Position 32500: 'können' → 'chemistries'
+Position 32501: 'könnte' → 'snorts'
+Position 33616: 'león' → 'shuman'
+Position 33671: 'liberté' → 'sagt'
+Position 34137: 'littéraire' → 'desegregate'
+Position 34138: 'littérature' → 'kham'
+Position 34797: 'lumière' → 'nastiness'
+Position 34953: 'lópez' → 'samkara'
+Position 35591: 'manière' → 'sartor'
+Position 35734: 'marché' → 'mavericks'
+Position 35962: 'martínez' → 'telophase'
+Position 35989: 'maría' → 'mccone'
+Position 36143: 'matière' → 'carlsberg'
+Position 37542: 'ministère' → 'kirwan'
+Position 37932: 'modèle' → 'gendemen'
+Position 38241: 'montréal' → 'skeins'
+Position 38937: 'musée' → 'hazelnuts'
+Position 38985: 'muß' → 'ascham'
+Position 39066: 'mémoire' → 'romains'
+Position 39067: 'mémoires' → 'complexioned'
+Position 39068: 'méthode' → 'takeout'
+Position 39069: 'méthodes' → 'poulet'
+Position 39070: 'méxico' → 'katsura'
+Position 39071: 'même' → 'gendy'
+Position 39072: 'mêmes' → 'ranney'
+Position 39073: 'möglich' → 'satisficing'
+Position 39074: 'müller' → 'crouse'
+Position 39075: 'münchen' → 'demarcations'
+Position 39076: 'müssen' → 'abolishment'
+Position 39403: 'naïve' → 'rivaling'
+Position 40660: 'não' → 'pariahs'
+Position 40661: 'nämlich' → 'quadrille'
+Position 40662: 'nécessaire' → 'kristi'
+Position 40663: 'número' → 'grownup'
+Position 42914: 'passé' → 'tenir'
+Position 43154: 'país' → 'annuitant'
+Position 43155: 'países' → 'faubus'
+Position 43434: 'pensée' → 'shoup'
+Position 43517: 'perché' → 'gamow'
+Position 43827: 'perú' → 'liven'
+Position 44521: 'più' → 'katayama'
+Position 44857: 'plutôt' → 'homiletic'
+Position 45130: 'política' → 'unlabelled'
+Position 45777: 'première' → 'nephrotoxic'
+Position 46164: 'problème' → 'polarography'
+Position 46165: 'problèmes' → 'preceptors'
+Position 46226: 'producción' → 'banerji'
+Position 46715: 'présence' → 'overstressed'
+Position 46716: 'présent' → 'lafontaine'
+Position 46717: 'présente' → 'subsaharan'
+Position 46718: 'président' → 'dicarboxylic'
+Position 47053: 'può' → 'hobbyists'
+Position 47098: 'père' → 'howlett'
+Position 47099: 'pérez' → 'benbow'
+Position 47100: 'période' → 'catesby'
+Position 47165: 'qualité' → 'glycosidic'
+Position 47416: 'qué' → 'soffit'
+Position 47417: 'québec' → 'moniker'
+Position 47714: 'ramón' → 'passy'
+Position 48870: 'relación' → 'ultrafast'
+Position 49141: 'rené' → 'bloat'
+Position 49344: 'república' → 'ojibway'
+Position 49838: 'revolución' → 'tomar'
+Position 50351: 'rodríguez' → 'syne'
+Position 50919: 'réalité' → 'telefax'
+Position 50920: 'référence' → 'selo'
+Position 50921: 'régime' → 'thorazine'
+Position 50922: 'région' → 'littler'
+Position 50923: 'république' → 'devolving'
+Position 50924: 'résultats' → 'jamaat'
+Position 50925: 'résumé' → 'sica'
+Position 50926: 'révolution' → 'autogenic'
+Position 50927: 'río' → 'satrap'
+Position 50928: 'rôle' → 'shuja'
+Position 51359: 'santé' → 'pimple'
+Position 52391: 'según' → 'nourse'
+Position 52889: 'señor' → 'reconfirmed'
+Position 53941: 'siècle' → 'comforters'
+Position 53942: 'się' → 'bradfield'
+Position 54540: 'società' → 'exegete'
+Position 54551: 'société' → 'duplicitous'
+Position 57288: 'supérieur' → 'kilocalories'
+Position 57756: 'système' → 'premia'
+Position 57764: 'sánchez' → 'tullius'
+Position 57765: 'são' → 'badgered'
+Position 57766: 'série' → 'tapir'
+Position 57767: 'sólo' → 'lulling'
+Position 57979: 'también' → 'ftom'
+Position 59175: 'thèse' → 'glutted'
+Position 59176: 'théorie' → 'cretans'
+Position 59177: 'théâtre' → 'fulford'
+Position 59967: 'traité' → 'pensamiento'
+Position 60922: 'tête' → 'thenar'
+Position 60923: 'tübingen' → 'thruster'
+Position 61552: 'unité' → 'pyarelal'
+Position 61577: 'universität' → 'hurler'
+Position 61578: 'université' → 'barbuda'
+Position 65009: 'während' → 'raney'
+Position 65010: 'wäre' → 'comparators'
+Position 65011: 'würde' → 'hannon'
+Position 65513: 'âge' → 'nguni'
+Position 65514: 'école' → 'bisection'
+Position 65515: 'économie' → 'kernan'
+Position 65516: 'économique' → 'eurocurrency'
+Position 65517: 'économiques' → 'tensioning'
+Position 65518: 'écrit' → 'brueghel'
+Position 65519: 'édition' → 'galba'
+Position 65520: 'éditions' → 'gyrations'
+Position 65521: 'éducation' → 'edt'
+Position 65522: 'également' → 'hypericum'
+Position 65523: 'égard' → 'sterns'
+Position 65524: 'éléments' → 'hindley'
+Position 65525: 'énergie' → 'thal'
+Position 65526: 'époque' → 'cristal'
+Position 65527: 'étaient' → 'gerbil'
+Position 65528: 'était' → 'anns'
+Position 65529: 'étant' → 'sacrificer'
+Position 65530: 'état' → 'bhubaneswar'
+Position 65531: 'états' → 'misr'
+Position 65532: 'étude' → 'idled'
+Position 65533: 'études' → 'handrails'
+Position 65534: 'évolution' → 'tolley'
+Position 65535: 'être' → 'plainclothes'
+Position 65536: 'über' → 'somervell'
+
+ALL NON-ENGLISH WORDS FOUND:
+----------------------------------------
+Position 35: abbé
+Position 267: académie
+Position 557: activité
+Position 558: activités
+Position 2125: américa
+Position 2294: andré
+Position 2498: année
+Position 2499: années
+Position 3001: après
+Position 3033: aquí
+Position 3812: así
+Position 4417: años
+Position 5473: beiträge
+Position 5962: bibliothèque
+Position 6688: bogotá
+Position 8283: café
+Position 8771: caractère
+Position 10404: château
+Position 10543: città
+Position 11502: comité
+Position 11600: communauté
+Position 12564: contrôle
+Position 13012: così
+Position 13735: création
+Position 14126: cómo
+Position 14127: côte
+Position 14483: daß
+Position 15394: dernière
+Position 15518: después
+Position 15644: deuxième
+Position 15972: différentes
+Position 15973: différents
+Position 16175: dirección
+Position 17020: donné
+Position 17021: données
+Position 17689: durée
+Position 17783: début
+Position 17784: día
+Position 17785: días
+Position 17786: díaz
+Position 17988: economía
+Position 17989: económica
+Position 18096: educación
+Position 19250: entrée
+Position 19704: españa
+Position 19705: español
+Position 19706: española
+Position 19725: espèces
+Position 19820: está
+Position 19821: están
+Position 19953: européenne
+Position 20559: expérience
+Position 21178: façade
+Position 21179: façon
+Position 21407: fernández
+Position 22891: français
+Position 22892: française
+Position 22893: françois
+Position 23621: garcía
+Position 23825: gegenüber
+Position 24325: già
+Position 24706: gonzález
+Position 25367: großen
+Position 25406: grâce
+Position 25664: général
+Position 25665: générale
+Position 25666: gómez
+Position 25667: göttingen
+Position 25703: había
+Position 28480: idée
+Position 28481: idées
+Position 30292: intérieur
+Position 30293: intérêt
+Position 31310: josé
+Position 32500: können
+Position 32501: könnte
+Position 33616: león
+Position 33671: liberté
+Position 34137: littéraire
+Position 34138: littérature
+Position 34797: lumière
+Position 34953: lópez
+Position 35591: manière
+Position 35734: marché
+Position 35962: martínez
+Position 35989: maría
+Position 36143: matière
+Position 37542: ministère
+Position 37932: modèle
+Position 38241: montréal
+Position 38937: musée
+Position 38985: muß
+Position 39066: mémoire
+Position 39067: mémoires
+Position 39068: méthode
+Position 39069: méthodes
+Position 39070: méxico
+Position 39071: même
+Position 39072: mêmes
+Position 39073: möglich
+Position 39074: müller
+Position 39075: münchen
+Position 39076: müssen
+Position 39403: naïve
+Position 40660: não
+Position 40661: nämlich
+Position 40662: nécessaire
+Position 40663: número
+Position 42914: passé
+Position 43154: país
+Position 43155: países
+Position 43434: pensée
+Position 43517: perché
+Position 43827: perú
+Position 44521: più
+Position 44857: plutôt
+Position 45130: política
+Position 45777: première
+Position 46164: problème
+Position 46165: problèmes
+Position 46226: producción
+Position 46715: présence
+Position 46716: présent
+Position 46717: présente
+Position 46718: président
+Position 47053: può
+Position 47098: père
+Position 47099: pérez
+Position 47100: période
+Position 47165: qualité
+Position 47416: qué
+Position 47417: québec
+Position 47714: ramón
+Position 48870: relación
+Position 49141: rené
+Position 49344: república
+Position 49838: revolución
+Position 50351: rodríguez
+Position 50919: réalité
+Position 50920: référence
+Position 50921: régime
+Position 50922: région
+Position 50923: république
+Position 50924: résultats
+Position 50925: résumé
+Position 50926: révolution
+Position 50927: río
+Position 50928: rôle
+Position 51359: santé
+Position 52391: según
+Position 52889: señor
+Position 53941: siècle
+Position 53942: się
+Position 54540: società
+Position 54551: société
+Position 57288: supérieur
+Position 57756: système
+Position 57764: sánchez
+Position 57765: são
+Position 57766: série
+Position 57767: sólo
+Position 57979: también
+Position 59175: thèse
+Position 59176: théorie
+Position 59177: théâtre
+Position 59967: traité
+Position 60922: tête
+Position 60923: tübingen
+Position 61552: unité
+Position 61577: universität
+Position 61578: université
+Position 65009: während
+Position 65010: wäre
+Position 65011: würde
+Position 65513: âge
+Position 65514: école
+Position 65515: économie
+Position 65516: économique
+Position 65517: économiques
+Position 65518: écrit
+Position 65519: édition
+Position 65520: éditions
+Position 65521: éducation
+Position 65522: également
+Position 65523: égard
+Position 65524: éléments
+Position 65525: énergie
+Position 65526: époque
+Position 65527: étaient
+Position 65528: était
+Position 65529: étant
+Position 65530: état
+Position 65531: états
+Position 65532: étude
+Position 65533: études
+Position 65534: évolution
+Position 65535: être
+Position 65536: über
